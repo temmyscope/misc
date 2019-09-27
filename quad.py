@@ -15,5 +15,5 @@ def quad(a, b, c):
 
 ls = quad(a , b , c)
 
-print('The first value of x is'+ ls[0])
-print('The second value of x is'+ ls[1])
+print(ls[0])
+print(ls[1])
